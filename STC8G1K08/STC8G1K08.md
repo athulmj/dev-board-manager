@@ -28,7 +28,7 @@
 | **GND**        | GND       |
 
 #### Download Programming Software
-- ***[STC-ISP V6.x](https://www.stcmicro.com/rjxz.html)***\
+- ***[STC-ISP V6.x](https://www.stcmicro.com/rjxz.html)***
 - ***[SDCC](https://sdcc.sourceforge.net/)***
 
 #### create a HEX file for STC8G1K08
